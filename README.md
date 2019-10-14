@@ -2,6 +2,8 @@
 
 The API component of [https://pubgheatmap.net](https://pubgheatmap.net). See also [pubgsh/client](https://github.com/pubgsh/client).
 
+> ✨ **Note:** This library is based on [pubgsh/api](https://github.com/pubgsh/api) with more features and new cool things.
+
 ## Overview
 
 This app provides a caching layer in front of the [PUBG Official API](https://documentation.playbattlegrounds.com/en/introduction.html) and exposes the underlying data via GraphQL. It's responsible for parsing the retrieved data into a normalized schema and returning info about players and the matches they've participated in.
