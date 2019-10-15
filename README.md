@@ -1,6 +1,6 @@
 # pubgheatmap.net-api
 
-The API component of [https://pubgheatmap.net](https://pubgheatmap.net). See also [pubgsh/client](https://github.com/pubgsh/client).
+The API component of [https://pubgheatmap.net](https://pubgheatmap.net). See also [pubgheatmap/frontend](https://github.com/ORzazade/PUBG-heatmap-frontend).
 
 > ✨ **Note:** This library is based on [pubgsh/api](https://github.com/pubgsh/api) with more features and new cool things.
 
