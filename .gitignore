@@ -16,6 +16,7 @@ util/server-ca.pem
 util/proddb.sh
 
 # misc
+.env
 .DS_Store
 .tern-port
 
